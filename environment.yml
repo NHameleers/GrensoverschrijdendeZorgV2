@@ -1,0 +1,13 @@
+name: voila_env
+channels:
+  - conda-forge
+dependencies:
+  - ipympl
+  - ipywidgets
+  - voila
+  - geopandas
+  - matplotlib
+  - numpy
+  - pandas
+  - mapclassify
+  - descartes
